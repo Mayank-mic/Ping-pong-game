@@ -2,6 +2,9 @@
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
+
+![alt img](https://github.com/Mayank-mic/Ping-pong-game/blob/main/ping_pong2.0/Image%201.png)
+
 The Ping Pong Game is a digital implementation of the classic 2D game using VHDL (Very High-Speed Integrated Circuit Hardware Description Language). It simulates a simple table tennis game where players control paddles to hit the ball back and forth.
 
 ## Getting Started
