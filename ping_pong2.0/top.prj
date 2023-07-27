@@ -1,0 +1,8 @@
+verilog work "vga_sync.v"
+verilog work "seven_seg.v"
+verilog work "render.v"
+verilog work "paddle.v"
+verilog work "game_state.v"
+verilog work "clock_divider.v"
+verilog work "ball.v"
+verilog work "top.v"

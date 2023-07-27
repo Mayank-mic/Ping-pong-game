@@ -1,0 +1,48 @@
+NET "clk" LOC="P51";
+NET "reset" LOC="P78";
+//NET "AI_switch" LOC="P93";
+//NET "invis_switch" LOC="P92";
+//NET "paddlesize_switch" LOC="P88";
+//NET "ballspeed_switch" LOC="P87";
+// SEVEN SEGMENT
+NET "seg1[0]" LOC="P140";
+NET "seg1[1]" LOC="P137";
+NET "seg1[2]" LOC="P134";
+NET "seg1[3]" LOC="P133";
+NET "seg1[4]" LOC="P131";
+NET "seg1[5]" LOC="P127";
+NET "seg1[6]" LOC="P126";
+
+NET "seg2[0]" LOC="P140";
+NET "seg2[1]" LOC="P137";
+NET "seg2[2]" LOC="P134";
+NET "seg2[3]" LOC="P133";
+NET "seg2[4]" LOC="P131";
+NET "seg2[5]" LOC="P127";
+NET "seg2[6]" LOC="P126";
+
+//NET "AN[0]" LOC="P120";
+//NET "AN[1]" LOC="P119";
+//NET "AN[2]" LOC="P118";
+//NET "AN[3]" LOC="P117";
+
+// VGA
+NET "R[0]" LOC = "P62";
+NET "R[1]" LOC = "P61";
+NET "R[2]" LOC = "P59";
+
+NET "G[0]" LOC = "P58";
+NET "G[1]" LOC = "P57";
+NET "G[2]" LOC = "P56";
+
+NET "B[0]" LOC = "P50";
+NET "B[1]" LOC = "P48";
+
+NET "hsync" LOC = "P47";
+NET "vsync" LOC = "P46";
+
+//PUSH BUTTONS
+NET "button" LOC="P139";
+NET "button1" LOC="P141";
+NET "button2" LOC="P143";
+NET "button3" LOC="P142";
