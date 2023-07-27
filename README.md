@@ -1,4 +1,4 @@
-# Ping Pong Game (VHDL)
+# FPGA Implementation of Ping Pong Game using Spartan3 FPGA image processing kit
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
@@ -18,7 +18,7 @@ To run and test the Ping Pong Game on your hardware, you will need a FPGA (Field
 1. Clone the repository:
 
 
-git clone https://github.com/Mayank-mic/Ping-pong-game.git
+  git clone https://github.com/Mayank-mic/Ping-pong-game.git
 
 
 
@@ -50,9 +50,9 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Credits
 
-- Mayank Mittal (GitHub: [Mayank-mic](https://github.com/Mayank-mic)) - Developer
+- Mayank Chaturvedi (GitHub: [Mayank-mic](https://github.com/Mayank-mic)) - Developer
 
 ## Contact
 
-If you have any questions or want to get in touch, you can reach me at [your_email@example.com]. Feel free to visit my GitHub profile [Mayank-mic](https://github.com/Mayank-mic) for more projects and contributions. Enjoy the game!
+If you have any questions or want to get in touch, you can reach me at [mayankchaturvedi755@gmail.com]. Feel free to visit my GitHub profile [Mayank-mic](https://github.com/Mayank-mic) for more projects and contributions. Enjoy the game!
 
